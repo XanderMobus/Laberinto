@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="3ab7225b-3627-4bc1-8094-7b420444f9d0" name="Changes" comment="Mas paredes">
+    <list default="true" id="3ab7225b-3627-4bc1-8094-7b420444f9d0" name="Changes" comment="Mas paredes 2">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Ventanaa.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Ventanaa.java" afterDir="false" />
     </list>
@@ -64,12 +64,20 @@
       <option name="project" value="LOCAL" />
       <updated>1682816440314</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Mas paredes 2">
+      <created>1682830418832</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1682830418832</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Colisiones" />
     <MESSAGE value="Mas paredes" />
-    <option name="LAST_COMMIT_MESSAGE" value="Mas paredes" />
+    <MESSAGE value="Mas paredes 2" />
+    <option name="LAST_COMMIT_MESSAGE" value="Mas paredes 2" />
   </component>
 </project>
