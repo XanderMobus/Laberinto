@@ -392,11 +392,11 @@ public class Ventanaa extends JFrame {
             g2.setColor(p59.c);
             g2.fillRect(p59.x, p59.y, p59.w, p59.h);
 
-            Rect p60 = new Rect(420, 330, 40, hh, Color.decode("#FF5733"));
+            Rect p60 = new Rect(420, 340, 40, hh, Color.decode("#FF5733"));
             g2.setColor(p60.c);
             g2.fillRect(p60.x, p60.y, p60.w, p60.h);
 
-            Rect p61 = new Rect(440, 240, hh, 80, Color.decode("#FF5733"));
+            Rect p61 = new Rect(440, 240, hh, 90, Color.decode("#FF5733"));
             g2.setColor(p61.c);
             g2.fillRect(p61.x, p61.y, p61.w, p61.h);
 
@@ -489,7 +489,7 @@ public class Ventanaa extends JFrame {
             g2.setColor(p83.c);
             g2.fillRect(p83.x, p83.y, p83.w, p83.h);
 
-            Rect p84 = new Rect(250, 90, hh,60, Color.decode("#FF5733"));
+            Rect p84 = new Rect(250, 90, hh,90, Color.decode("#FF5733"));
             g2.setColor(p84.c);
             g2.fillRect(p84.x, p84.y, p84.w, p84.h);
 
@@ -530,13 +530,190 @@ public class Ventanaa extends JFrame {
             g2.fillRect(p93.x, p93.y, p93.w, p93.h);
 
 
+            Rect p94 = new Rect(120, 130, 110, hh, Color.decode("#FF5733"));
+            g2.setColor(p94.c);
+            g2.fillRect(p94.x, p94.y, p94.w, p94.h);
+
+            Rect p95 = new Rect(110, 130, hh, 60, Color.decode("#FF5733"));
+            g2.setColor(p95.c);
+            g2.fillRect(p95.x, p95.y, p95.w, p95.h);
 
 
+            Rect p96 = new Rect(80, 190, 30, hh, Color.decode("#FF5733"));
+            g2.setColor(p96.c);
+            g2.fillRect(p96.x, p96.y, p96.w, p96.h);
 
+            Rect p97 = new Rect(70, 190, hh, 40, Color.decode("#FF5733"));
+            g2.setColor(p97.c);
+            g2.fillRect(p97.x, p97.y, p97.w, p97.h);
 
+            Rect p98 = new Rect(90, 210, hh, 40, Color.decode("#FF5733"));
+            g2.setColor(p98.c);
+            g2.fillRect(p98.x, p98.y, p98.w, p98.h);
 
+            Rect p99 = new Rect(110, 190, hh, 80, Color.decode("#FF5733"));
+            g2.setColor(p99.c);
+            g2.fillRect(p99.x, p99.y, p99.w, p99.h);
 
+            Rect p100 = new Rect(100, 260, hh, hh, Color.decode("#FF5733"));
+            g2.setColor(p100.c);
+            g2.fillRect(p100.x, p100.y, p100.w, p100.h);
 
+            Rect p101 = new Rect(370, 240, 70, hh, Color.decode("#FF5733"));
+            g2.setColor(p101.c);
+            g2.fillRect(p101.x, p101.y, p101.w, p101.h);
+
+            Rect p102 = new Rect(340, 260, 100, hh, Color.decode("#FF5733"));
+            g2.setColor(p102.c);
+            g2.fillRect(p102.x, p102.y, p102.w, p102.h);
+
+            Rect p103 = new Rect(420, 270, hh, 70, Color.decode("#FF5733"));
+            g2.setColor(p103.c);
+            g2.fillRect(p103.x, p103.y, p103.w, p103.h);
+
+            Rect p104 = new Rect(340, 190, hh, 70, Color.decode("#FF5733"));
+            g2.setColor(p104.c);
+            g2.fillRect(p104.x, p104.y, p104.w, p104.h);
+
+            Rect p105 = new Rect(90, 260, hh, 90, Color.decode("#FF5733"));
+            g2.setColor(p105.c);
+            g2.fillRect(p105.x, p105.y, p105.w, p105.h);
+
+            Rect p106 = new Rect(230, 190, 100, hh, Color.decode("#FF5733"));
+            g2.setColor(p106.c);
+            g2.fillRect(p106.x, p106.y, p106.w, p106.h);
+
+            Rect p107 = new Rect(320, 200, hh, 90, Color.decode("#FF5733"));
+            g2.setColor(p107.c);
+            g2.fillRect(p107.x, p107.y, p107.w, p107.h);
+
+            Rect p108 = new Rect(330, 280, 80, hh, Color.decode("#FF5733"));
+            g2.setColor(p108.c);
+            g2.fillRect(p108.x, p108.y, p108.w, p108.h);
+
+            Rect p109 = new Rect(230, 130, hh, 50, Color.decode("#FF5733"));
+            g2.setColor(p109.c);
+            g2.fillRect(p109.x, p109.y, p109.w, p109.h);
+
+            Rect p110 = new Rect(210, 160, hh, 130, Color.decode("#FF5733"));
+            g2.setColor(p110.c);
+            g2.fillRect(p110.x, p110.y, p110.w, p110.h);
+
+            Rect p111 = new Rect(30, 290, 50, hh, Color.decode("#FF5733"));
+            g2.setColor(p111.c);
+            g2.fillRect(p111.x, p111.y, p111.w, p111.h);
+
+            Rect p112 = new Rect(30, 300, hh, 50, Color.decode("#FF5733"));
+            g2.setColor(p112.c);
+            g2.fillRect(p112.x, p112.y, p112.w, p112.h);
+
+            Rect p113 = new Rect(50, 300, hh, 50, Color.decode("#FF5733"));
+            g2.setColor(p113.c);
+            g2.fillRect(p113.x, p113.y, p113.w, p113.h);
+
+            Rect p114 = new Rect(70, 300, hh, 50, Color.decode("#FF5733"));
+            g2.setColor(p114.c);
+            g2.fillRect(p114.x, p114.y, p114.w, p114.h);
+
+            Rect p115 = new Rect(400, 310, hh, 40, Color.decode("#FF5733"));
+            g2.setColor(p115.c);
+            g2.fillRect(p115.x, p115.y, p115.w, p115.h);
+
+            Rect p116 = new Rect(300, 300, 120, hh, Color.decode("#FF5733"));
+            g2.setColor(p116.c);
+            g2.fillRect(p116.x, p116.y, p116.w, p116.h);
+
+            Rect p117 = new Rect(300, 320, 100, hh, Color.decode("#FF5733"));
+            g2.setColor(p117.c);
+            g2.fillRect(p117.x, p117.y, p117.w, p117.h);
+
+            Rect p118 = new Rect(300, 340, 100, hh, Color.decode("#FF5733"));
+            g2.setColor(p118.c);
+            g2.fillRect(p118.x, p118.y, p118.w, p118.h);
+
+            Rect p119 = new Rect(300, 210, hh, 90, Color.decode("#FF5733"));
+            g2.setColor(p119.c);
+            g2.fillRect(p119.x, p119.y, p119.w, p119.h);
+
+            Rect p120 = new Rect(230, 210, 70, hh, Color.decode("#FF5733"));
+            g2.setColor(p120.c);
+            g2.fillRect(p120.x, p120.y, p120.w, p120.h);
+
+            Rect p121 = new Rect(130, 150, 90, hh, Color.decode("#FF5733"));
+            g2.setColor(p121.c);
+            g2.fillRect(p121.x, p121.y, p121.w, p121.h);
+
+            Rect p122 = new Rect(130, 160, hh, 130, Color.decode("#FF5733"));
+            g2.setColor(p122.c);
+            g2.fillRect(p122.x, p122.y, p122.w, p122.h);
+
+            Rect p123 = new Rect(150, 170, hh, 130, Color.decode("#FF5733"));
+            g2.setColor(p123.c);
+            g2.fillRect(p123.x, p123.y, p123.w, p123.h);
+
+            Rect p124 = new Rect(170, 160, hh, 130, Color.decode("#FF5733"));
+            g2.setColor(p124.c);
+            g2.fillRect(p124.x, p124.y, p124.w, p124.h);
+
+            Rect p125 = new Rect(190, 170, hh, 130, Color.decode("#FF5733"));
+            g2.setColor(p125.c);
+            g2.fillRect(p125.x, p125.y, p125.w, p125.h);
+
+            Rect p126 = new Rect(110, 280, 20, hh, Color.decode("#FF5733"));
+            g2.setColor(p126.c);
+            g2.fillRect(p126.x, p126.y, p126.w, p126.h);
+
+            Rect p127 = new Rect(210, 300, hh, hh, Color.decode("#FF5733"));
+            g2.setColor(p127.c);
+            g2.fillRect(p127.x, p127.y, p127.w, p127.h);
+
+            Rect p128 = new Rect(110, 300, 100, hh, Color.decode("#FF5733"));
+            g2.setColor(p128.c);
+            g2.fillRect(p128.x, p128.y, p128.w, p128.h);
+
+            Rect p129 = new Rect(110, 310, hh, 40, Color.decode("#FF5733"));
+            g2.setColor(p129.c);
+            g2.fillRect(p129.x, p129.y, p129.w, p129.h);
+
+            Rect p130 = new Rect(130, 340, 150, hh, Color.decode("#FF5733"));
+            g2.setColor(p130.c);
+            g2.fillRect(p130.x, p130.y, p130.w, p130.h);
+
+            Rect p131 = new Rect(280, 230, hh, 130, Color.decode("#FF5733"));
+            g2.setColor(p131.c);
+            g2.fillRect(p131.x, p131.y, p131.w, p131.h);
+
+            Rect p132 = new Rect(230, 230, 50, hh, Color.decode("#FF5733"));
+            g2.setColor(p132.c);
+            g2.fillRect(p132.x, p132.y, p132.w, p132.h);
+
+            Rect p133 = new Rect(260, 240, hh, 90, Color.decode("#FF5733"));
+            g2.setColor(p133.c);
+            g2.fillRect(p133.x, p133.y, p133.w, p133.h);
+
+            Rect p134 = new Rect(230, 240, hh, 90, Color.decode("#FF5733"));
+            g2.setColor(p134.c);
+            g2.fillRect(p134.x, p134.y, p134.w, p134.h);
+
+            Rect p135 = new Rect(240, 250, hh, hh, Color.decode("#FF5733"));
+            g2.setColor(p135.c);
+            g2.fillRect(p135.x, p135.y, p135.w, p135.h);
+
+            Rect p136 = new Rect(250, 270, hh, hh, Color.decode("#FF5733"));
+            g2.setColor(p136.c);
+            g2.fillRect(p136.x, p136.y, p136.w, p136.h);
+
+            Rect p137 = new Rect(240, 290, hh, hh, Color.decode("#FF5733"));
+            g2.setColor(p137.c);
+            g2.fillRect(p137.x, p137.y, p137.w, p137.h);
+
+            Rect p138 = new Rect(250, 310, hh, hh, Color.decode("#FF5733"));
+            g2.setColor(p138.c);
+            g2.fillRect(p138.x, p138.y, p138.w, p138.h);
+
+            Rect p139 = new Rect(130, 320, 100, hh, Color.decode("#FF5733"));
+            g2.setColor(p139.c);
+            g2.fillRect(p139.x, p139.y, p139.w, p139.h);
 
 
 
@@ -544,12 +721,146 @@ public class Ventanaa extends JFrame {
             paredes.add(p);
             paredes.add(p2);
             paredes.add(p3);
-
+            paredes.add(p4);
+            paredes.add(p5);
+            paredes.add(p6);
+            paredes.add(p7);
+            paredes.add(p8);
+            paredes.add(p9);
+            paredes.add(p10);
+            paredes.add(p11);
+            paredes.add(p12);
+            paredes.add(p13);
+            paredes.add(p14);
+            paredes.add(p15);
+            paredes.add(p16);
+            paredes.add(p17);
+            paredes.add(p18);
+            paredes.add(p19);
+            paredes.add(p20);
+            paredes.add(p21);
+            paredes.add(p22);
+            paredes.add(p23);
+            paredes.add(p24);
+            paredes.add(p25);
+            paredes.add(p26);
+            paredes.add(p27);
+            paredes.add(p28);
+            paredes.add(p29);
+            paredes.add(p30);
+            paredes.add(p31);
+            paredes.add(p32);
+            paredes.add(p33);
+            paredes.add(p34);
+            paredes.add(p35);
+            paredes.add(p36);
+            paredes.add(p37);
+            paredes.add(p38);
+            paredes.add(p39);
+            paredes.add(p40);
+            paredes.add(p41);
+            paredes.add(p42);
+            paredes.add(p43);
+            paredes.add(p44);
+            paredes.add(p45);
+            paredes.add(p46);
+            paredes.add(p47);
+            paredes.add(p48);
+            paredes.add(p49);
+            paredes.add(p50);
+            paredes.add(p51);
+            paredes.add(p52);
+            paredes.add(p53);
+            paredes.add(p54);
+            paredes.add(p55);
+            paredes.add(p56);
+            paredes.add(p57);
+            paredes.add(p58);
+            paredes.add(p59);
+            paredes.add(p60);
+            paredes.add(p61);
+            paredes.add(p62);
+            paredes.add(p63);
+            paredes.add(p64);
+            paredes.add(p65);
+            paredes.add(p66);
+            paredes.add(p67);
+            paredes.add(p68);
+            paredes.add(p69);
+            paredes.add(p70);
+            paredes.add(p71);
+            paredes.add(p72);
+            paredes.add(p73);
+            paredes.add(p74);
+            paredes.add(p75);
+            paredes.add(p76);
+            paredes.add(p77);
+            paredes.add(p78);
+            paredes.add(p79);
+            paredes.add(p80);
+            paredes.add(p81);
+            paredes.add(p82);
+            paredes.add(p83);
+            paredes.add(p84);
+            paredes.add(p85);
+            paredes.add(p86);
+            paredes.add(p87);
+            paredes.add(p88);
+            paredes.add(p89);
+            paredes.add(p90);
+            paredes.add(p91);
+            paredes.add(p92);
+            paredes.add(p93);
+            paredes.add(p94);
+            paredes.add(p95);
+            paredes.add(p96);
+            paredes.add(p97);
+            paredes.add(p98);
+            paredes.add(p99);
+            paredes.add(p100);
+            paredes.add(p101);
+            paredes.add(p102);
+            paredes.add(p103);
+            paredes.add(p104);
+            paredes.add(p105);
+            paredes.add(p106);
+            paredes.add(p107);
+            paredes.add(p108);
+            paredes.add(p109);
+            paredes.add(p110);
+            paredes.add(p111);
+            paredes.add(p112);
+            paredes.add(p113);
+            paredes.add(p114);
+            paredes.add(p115);
+            paredes.add(p116);
+            paredes.add(p117);
+            paredes.add(p118);
+            paredes.add(p119);
+            paredes.add(p120);
+            paredes.add(p121);
+            paredes.add(p122);
+            paredes.add(p123);
+            paredes.add(p124);
+            paredes.add(p125);
+            paredes.add(p126);
+            paredes.add(p127);
+            paredes.add(p128);
+            paredes.add(p129);
+            paredes.add(p130);
+            paredes.add(p131);
+            paredes.add(p132);
+            paredes.add(p133);
+            paredes.add(p134);
+            paredes.add(p135);
+            paredes.add(p136);
+            paredes.add(p137);
+            paredes.add(p138);
+            paredes.add(p139);
             a=1;
             }
 
-            System.out.println(player_x);
-            System.out.println(player_y);
+
 
 
 
@@ -576,6 +887,7 @@ public class Ventanaa extends JFrame {
                 }
             }
             if(r.colision(meta)){
+
                 if(segundos<10 && minutos<10){
                     JOptionPane.showMessageDialog(null,"Ganaste, tu tiempo fue 0"+minutos+":0"+segundos,"GG",JOptionPane.INFORMATION_MESSAGE);
                 }
@@ -587,11 +899,15 @@ public class Ventanaa extends JFrame {
                 }
                 if(segundos<10 && minutos>10) {
                     JOptionPane.showMessageDialog(null, "Ganaste, tu tiempo fue " + minutos + ":0" + segundos, "GG", JOptionPane.INFORMATION_MESSAGE);
+
                 }
                 segundos=0;
                 minutos=0;
                 player_x=20;
                 player_y=10;
+                repaint();
+                revalidate();
+
 
             }
 
